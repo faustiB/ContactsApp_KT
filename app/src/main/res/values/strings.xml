@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FBG</string>
+    <string name="bt_login">LOGIN</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="error_msg_user_pswd">Introduzca los datos de inicio correctos.</string>
+    <string name="item_menu_1">Crear Contacto</string>
+    <string name="item_menu_2">Cerrar Sesión</string>
+    <string name="editar_contacto">Editar Contacto</string>
+    <string name="eliminar_contacto">Eliminar Contacto</string>
+    <string name="name">Name: </string>
+    <string name="name_hint">Name</string>
+    <string name="e_mail">E-Mail: </string>
+    <string name="e_mail_hint">E-Mail</string>
+    <string name="phone">Phone: </string>
+    <string name="phone_hint">Phone</string>
+    <string name="web">Web: </string>
+    <string name="web_hint">Web</string>
+    <string name="street">Street: </string>
+    <string name="street_hint">Street</string>
+    <string name="zipcode">Zipcode: </string>
+    <string name="zipcode_hint">Zipcode</string>
+    <string name="guardar_cambios">Guardar Cambios</string>
+    <string name="city">City: </string>
+    <string name="city_hint">City</string>
+    <string name="crear_contacto">Crear Contacto</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
